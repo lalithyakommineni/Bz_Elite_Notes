@@ -1,0 +1,7 @@
+1.what is caching? explain its usage taking different usecases like computer organization and web apps
+2. Introduction of Redis and Memcache
+3.what are cache eviction strategies? explain need and when to use which one.
+4. Draw a uml class diagram for implementing LRU cache using circular DLL and HashMap.
+5. Explain why circular DLL is preferred over arrays and singly LL.
+6. code with proper documentation/comments.
+7. A web visualizer app showing LRU cache working. create visualization using html css js.
